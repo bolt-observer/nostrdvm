@@ -1,0 +1,30 @@
+python-dotenv
+nostr-sdk
+asyncio
+nicegui
+pandas
+networkx
+requests
+Pillow
+torch
+replicate
+ffmpegio
+moviepy
+TTS
+regex
+argparse
+diffusers
+numpy
+huggingface_hub
+safetensors
+bech32
+pycryptodome  # For Crypto
+openai
+types-dataclasses  # if specific types are needed
+aiohttp
+litellm
+clip-interrogator
+basicsr
+realesrgan
+gfpgan
+whisperx
