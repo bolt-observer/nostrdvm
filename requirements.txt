@@ -1,3 +1,4 @@
+pyupload
 python-dotenv
 nostr-sdk
 asyncio
@@ -28,3 +29,6 @@ basicsr
 realesrgan
 gfpgan
 whisperx
+emoji
+yt_dlp
+bs4
