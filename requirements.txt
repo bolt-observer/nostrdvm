@@ -11,7 +11,7 @@ torch
 replicate
 ffmpegio
 moviepy
-TTS
+coqui-tts # replaced TTS to work on python3.12
 regex
 argparse
 diffusers
@@ -19,9 +19,9 @@ numpy
 huggingface_hub
 safetensors
 bech32
-pycryptodome  # For Crypto
+pycryptodome  
 openai
-types-dataclasses  # if specific types are needed
+types-dataclasses 
 aiohttp
 litellm
 clip-interrogator
